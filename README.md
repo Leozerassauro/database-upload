@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Leozerassauro/conceitos-nodejs?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/Leozerassauro/database-upload">
     <img alt="Made by LeonardoGirardi" src="https://img.shields.io/badge/made%20by-LeonardoGirardi-%2304D361">
   </a>
 
