@@ -7,16 +7,16 @@
 <blockquote align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Leozerassauro/conceitos-nodejs?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
 
-  <a href="https://github.com/Leozerassauro/database-upload">
-    <img alt="Made by LeonardoGirardi" src="https://img.shields.io/badge/made%20by-LeonardoGirardi-%2304D361">
+  <a href="https://www.linkedin.com/in/leonardo-girardi-494958171/">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Leozerassauro/database-upload?color=%2304D361">>
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Leozerassauro/conceitos-nodejs?style=social">
+    <img alt="Made by LeonardoGirardi" src="https://img.shields.io/badge/made%20by-LeonardoGirardi-%2304D361">
   </a>
 </p>
 
